@@ -1,0 +1,8 @@
+{
+    "$kind": "Microsoft.MultiLanguageRecognizer",
+    "id": "LUIS_malik-qnamakerluissample",
+    "recognizers": {
+        "en-us": "malik-qnamakerluissample.en-us.lu",
+        "": "malik-qnamakerluissample.en-us.lu"
+    }
+}
